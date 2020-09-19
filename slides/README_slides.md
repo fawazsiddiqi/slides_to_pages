@@ -42,6 +42,21 @@ jupyter:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
+## Alignment 
+
+- A majestic right aligned picture 
+![right](https://github.com/fawazsiddiqi/slides_to_pages/blob/master/images/slide_images/unnamed.jpg?raw=true)
+
++++ {"slideshow": {"slide_type": "subslide"}}
+
+- A majestic left aligned picture 
+![left](https://github.com/fawazsiddiqi/slides_to_pages/blob/master/images/slide_images/unnamed.jpg?raw=true)
+
+- A majestic center aligned picture 
+![center](https://github.com/fawazsiddiqi/slides_to_pages/blob/master/images/slide_images/unnamed.jpg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
+
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
