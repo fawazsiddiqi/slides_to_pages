@@ -42,6 +42,10 @@ jupyter:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
+
+![center](https://github.com/fawazsiddiqi/slides_to_pages/blob/master/images/slide_images/arch.jpg?raw=true)
+
++++ {"slideshow": {"slide_type": "slide"}}
 ## License
 
 **Recommend** that slides be shared under a [CC-BY](https://creativecommons.org/licenses/by/4.0/) license.
