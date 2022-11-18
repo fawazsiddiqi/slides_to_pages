@@ -36,6 +36,6 @@ Luckily PowerPoint exports the slides with the slide numbers at the end so you c
 
 9 - Last but not the least, push your changes into your repo, go to the ```settings``` tab of your repo, in the ```Options``` tab, go to the ```GitHub Pages``` section and select the source as ```gh-pages``` and keep the directory as ```/ (root)```
 
-10 - Once saved ypu can go to ```https://<GITHUB USERNAME>.github.io/<REPO_NAME>``` to access your slides
+10 - Once saved you can go to ```https://<GITHUB USERNAME>.github.io/<REPO_NAME>``` to access your slides
 
 11 - Now you can easily share the slides with the attendees of your webinars, cheeers!
